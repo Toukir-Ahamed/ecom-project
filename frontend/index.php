@@ -10,17 +10,17 @@
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
 
     <!-- CSS here -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="assets/css/flaticon.css">
-    <link rel="stylesheet" href="assets/css/slicknav.css">
-    <link rel="stylesheet" href="assets/css/animate.min.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
-    <link rel="stylesheet" href="assets/css/themify-icons.css">
-    <link rel="stylesheet" href="assets/css/slick.css">
-    <link rel="stylesheet" href="assets/css/nice-select.css">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="frontend/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="frontend/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="frontend/assets/css/flaticon.css">
+    <link rel="stylesheet" href="frontend/assets/css/slicknav.css">
+    <link rel="stylesheet" href="frontend/assets/css/animate.min.css">
+    <link rel="stylesheet" href="frontend/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="frontend/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="frontend/assets/css/themify-icons.css">
+    <link rel="stylesheet" href="frontend/assets/css/slick.css">
+    <link rel="stylesheet" href="frontend/assets/css/nice-select.css">
+    <link rel="stylesheet" href="frontend/assets/css/style.css">
 </head>
 
 <body>
@@ -30,7 +30,7 @@
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="assets/img/logo/logo.png" alt="">
+                    <img src="frontend/assets/img/logo/logo.png" alt="">
                 </div>
             </div>
         </div>
@@ -44,7 +44,7 @@
                     <div class="menu-wrapper">
                         <!-- Logo -->
                         <div class="logo">
-                            <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
+                            <a href="index.html"><img src="frontend/assets/img/logo/logo.png" alt=""></a>
                         </div>
                         <!-- Main-menu -->
                         <div class="main-menu d-none d-lg-block">
@@ -120,7 +120,7 @@
                             </div>
                             <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 d-none d-sm-block">
                                 <div class="hero__img" data-animation="bounceIn" data-delay=".4s">
-                                    <img src="assets/img/hero/watch.png" alt="" class=" heartbeat">
+                                    <img src="frontend/assets/img/hero/watch.png" alt="" class=" heartbeat">
                                 </div>
                             </div>
                         </div>
@@ -142,7 +142,7 @@
                             </div>
                             <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 d-none d-sm-block">
                                 <div class="hero__img" data-animation="bounceIn" data-delay=".4s">
-                                    <img src="assets/img/hero/watch.png" alt="" class=" heartbeat">
+                                    <img src="frontend/assets/img/hero/watch.png" alt="" class=" heartbeat">
                                 </div>
                             </div>
                         </div>
@@ -166,7 +166,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                         <div class="single-new-pro mb-30 text-center">
                             <div class="product-img">
-                                <img src="assets/img/gallery/new_product1.png" alt="">
+                                <img src="frontend/assets/img/gallery/new_product1.png" alt="">
                             </div>
                             <div class="product-caption">
                                 <h3><a href="product_details.html">Thermo Ball Etip Gloves</a></h3>
@@ -177,7 +177,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                         <div class="single-new-pro mb-30 text-center">
                             <div class="product-img">
-                                <img src="assets/img/gallery/new_product2.png" alt="">
+                                <img src="frontend/assets/img/gallery/new_product2.png" alt="">
                             </div>
                             <div class="product-caption">
                                 <h3><a href="product_details.html">Thermo Ball Etip Gloves</a></h3>
@@ -188,7 +188,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                         <div class="single-new-pro mb-30 text-center">
                             <div class="product-img">
-                                <img src="assets/img/gallery/new_product3.png" alt="">
+                                <img src="frontend/assets/img/gallery/new_product3.png" alt="">
                             </div>
                             <div class="product-caption">
                                 <h3><a href="product_details.html">Thermo Ball Etip Gloves</a></h3>
@@ -206,24 +206,24 @@
                 <div class="row">
                     <div class="col-xl-6 col-lg-4 col-md-6 col-sm-6">
                         <div class="single-gallery mb-30">
-                            <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery1.png);"></div>
+                            <div class="gallery-img big-img" style="background-image: url(frontend/assets/img/gallery/gallery1.png);"></div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
                         <div class="single-gallery mb-30">
-                            <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
+                            <div class="gallery-img big-img" style="background-image: url(frontend/assets/img/gallery/gallery2.png);"></div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-4 col-md-12">
                         <div class="row">
                             <div class="col-xl-12 col-lg-12 col-md-6 col-sm-6">
                                 <div class="single-gallery mb-30">
-                                    <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery3.png);"></div>
+                                    <div class="gallery-img small-img" style="background-image: url(frontend/assets/img/gallery/gallery3.png);"></div>
                                 </div>
                             </div>
                             <div class="col-xl-12 col-lg-12  col-md-6 col-sm-6">
                                 <div class="single-gallery mb-30">
-                                    <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery4.png);"></div>
+                                    <div class="gallery-img small-img" style="background-image: url(frontend/assets/img/gallery/gallery4.png);"></div>
                                 </div>
                             </div>
                         </div>
@@ -249,7 +249,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                         <div class="single-popular-items mb-50 text-center">
                             <div class="popular-img">
-                                <img src="assets/img/gallery/popular1.png" alt="">
+                                <img src="frontend/assets/img/gallery/popular1.png" alt="">
                                 <div class="img-cap">
                                     <span>Add to cart</span>
                                 </div>
@@ -266,7 +266,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                         <div class="single-popular-items mb-50 text-center">
                             <div class="popular-img">
-                                <img src="assets/img/gallery/popular2.png" alt="">
+                                <img src="frontend/assets/img/gallery/popular2.png" alt="">
                                 <div class="img-cap">
                                     <span>Add to cart</span>
                                 </div>
@@ -283,7 +283,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                         <div class="single-popular-items mb-50 text-center">
                             <div class="popular-img">
-                                <img src="assets/img/gallery/popular3.png" alt="">
+                                <img src="frontend/assets/img/gallery/popular3.png" alt="">
                                 <div class="img-cap">
                                     <span>Add to cart</span>
                                 </div>
@@ -300,7 +300,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                         <div class="single-popular-items mb-50 text-center">
                             <div class="popular-img">
-                                <img src="assets/img/gallery/popular4.png" alt="">
+                                <img src="frontend/assets/img/gallery/popular4.png" alt="">
                                 <div class="img-cap">
                                     <span>Add to cart</span>
                                 </div>
@@ -317,7 +317,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                         <div class="single-popular-items mb-50 text-center">
                             <div class="popular-img">
-                                <img src="assets/img/gallery/popular5.png" alt="">
+                                <img src="frontend/assets/img/gallery/popular5.png" alt="">
                                 <div class="img-cap">
                                     <span>Add to cart</span>
                                 </div>
@@ -542,38 +542,38 @@
 
     <!-- JS here -->
 
-    <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="frontend/assets/js/vendor/modernizr-3.5.0.min.js"></script>
     <!-- Jquery, Popper, Bootstrap -->
-    <script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="./assets/js/popper.min.js"></script>
-    <script src="./assets/js/bootstrap.min.js"></script>
+    <script src="frontend/assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="frontend/assets/js/popper.min.js"></script>
+    <script src="frontend/assets/js/bootstrap.min.js"></script>
     <!-- Jquery Mobile Menu -->
-    <script src="./assets/js/jquery.slicknav.min.js"></script>
+    <script src="frontend/assets/js/jquery.slicknav.min.js"></script>
 
     <!-- Jquery Slick , Owl-Carousel Plugins -->
-    <script src="./assets/js/owl.carousel.min.js"></script>
-    <script src="./assets/js/slick.min.js"></script>
+    <script src="frontend/assets/js/owl.carousel.min.js"></script>
+    <script src="frontend/assets/js/slick.min.js"></script>
 
     <!-- One Page, Animated-HeadLin -->
-    <script src="./assets/js/wow.min.js"></script>
-    <script src="./assets/js/animated.headline.js"></script>
-    <script src="./assets/js/jquery.magnific-popup.js"></script>
+    <script src="frontend/assets/js/wow.min.js"></script>
+    <script src="frontend/assets/js/animated.headline.js"></script>
+    <script src="frontend/assets/js/jquery.magnific-popup.js"></script>
 
     <!-- Scrollup, nice-select, sticky -->
-    <script src="./assets/js/jquery.scrollUp.min.js"></script>
-    <script src="./assets/js/jquery.nice-select.min.js"></script>
-    <script src="./assets/js/jquery.sticky.js"></script>
+    <script src="frontend/assets/js/jquery.scrollUp.min.js"></script>
+    <script src="frontend/assets/js/jquery.nice-select.min.js"></script>
+    <script src="frontend/assets/js/jquery.sticky.js"></script>
     
     <!-- contact js -->
-    <script src="./assets/js/contact.js"></script>
-    <script src="./assets/js/jquery.form.js"></script>
-    <script src="./assets/js/jquery.validate.min.js"></script>
-    <script src="./assets/js/mail-script.js"></script>
-    <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
+    <script src="frontend/assets/js/contact.js"></script>
+    <script src="frontend/assets/js/jquery.form.js"></script>
+    <script src="frontend/assets/js/jquery.validate.min.js"></script>
+    <script src="frontend/assets/js/mail-script.js"></script>
+    <script src="frontend/assets/js/jquery.ajaxchimp.min.js"></script>
     
     <!-- Jquery Plugins, main Jquery -->	
-    <script src="./assets/js/plugins.js"></script>
-    <script src="./assets/js/main.js"></script>
+    <script src="frontend/assets/js/plugins.js"></script>
+    <script src="frontend/assets/js/main.js"></script>
     
 </body>
 </html>
